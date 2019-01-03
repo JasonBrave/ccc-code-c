@@ -16,4 +16,5 @@ int main(){
             puts("Special");
         }
     }
+    return 0;
 }

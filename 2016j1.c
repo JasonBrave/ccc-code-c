@@ -16,4 +16,5 @@ int main(){
         puts("-1");
     }
     putchar('\n');
+    return 0;
 }

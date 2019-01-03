@@ -25,4 +25,5 @@ int main(){
     }else{
         puts("not magic");
     }
+    return 0;
 }

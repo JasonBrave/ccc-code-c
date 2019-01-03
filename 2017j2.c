@@ -8,4 +8,5 @@ int main(){
         sum+=n*pow(10,i);
     }
     printf("%d\n",sum);
+    return 0;
 }

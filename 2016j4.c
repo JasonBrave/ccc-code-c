@@ -16,4 +16,5 @@ int main(){
         hour=hour%24;     
     }
     printf("%02d:%02d\n",hour,min);
+    return 0;
 }
