@@ -14,4 +14,5 @@ int main(){
     if((antennas<=2)&&(eyes<=3)){
         puts("GraemeMercurian");
     }
+    return 0;
 }
